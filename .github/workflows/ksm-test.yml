@@ -14,7 +14,7 @@ jobs:
         with:
           keeper-secret-config: ${{ secrets.DEMO_SECRET }}
           secrets: |
-            2Plmk_P55N_fqht-XMSdTg/field/password > pwd
+            aS7P1qdw64vqJGTm3SW7VA/field/password > pwd
 
       - name: View password
         run: |
